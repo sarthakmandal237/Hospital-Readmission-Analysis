@@ -164,20 +164,6 @@ Features:
 
 ---
 
-## 📸 Dashboard Preview
-
-### 📄 Page 1 – Executive Overview
-
-![Executive Overview](Images/dashboard_page1.png)
-
----
-
-### 📄 Page 2 – Cost Leakage Deep Dive
-
-![Cost Leakage Deep Dive](Images/dashboard_page2.png)
-
----
-
 ## 📊 Key Business Insights
 
 - Overall 30-day readmission rate is **11.39%** across 99,343 patient encounters.
@@ -204,4 +190,4 @@ Features:
 
 ## 👨‍💻 Author
 
-**[Sarthak Mandal]**
+**Sarthak Mandal**
